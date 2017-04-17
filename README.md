@@ -8,7 +8,6 @@ UnitySteer is a toolkit to help build steering behaviors for autonomous agents i
 
 Please read License.txt before using in your projects.  It's short, sweet and to the point.
 
-
 ## Main repository
 
 If you have obtained this library from a third party, [you can always find the latest version on Github](https://github.com/ricardojmendez/UnitySteer).
@@ -36,3 +35,4 @@ I develop UnitySteer following git-flow, so if you're looking for a specific ver
 ## UnitySteer and iOS
 
 If you are using UnitySteer on iOS, bear in mind that you may need to search for and change any LINQ calls, since Unity has a penchant for not AOT'ing them properly.
+
